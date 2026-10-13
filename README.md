@@ -53,3 +53,5 @@ The image will popup :
 1-left click with the mouse to choose all the seeds
 
 2-right click with the mouse  when you finish choosing the seeds so the algorithm starts
+
+Last updated: 2026-10-13 15:47 UTC
