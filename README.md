@@ -54,4 +54,4 @@ The image will popup :
 
 2-right click with the mouse  when you finish choosing the seeds so the algorithm starts
 
-Last updated: 2026-10-31 00:28 UTC
+Last updated: 2026-10-31 06:41 UTC
